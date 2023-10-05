@@ -1,6 +1,6 @@
 🎯**Funcionalidades Iphone Antigo**
 
-Esse projeto exemplifica o funcionamento de uma conta bancária ou até mesmo caixa eletrônico, onde é possivel realizar transferências, saques, depósitos e abrir nova conta!
+Exemplificação das funcionalidades de um celular antigo como tocar música e fazer ligação.
 
 💻**Construção**
 
